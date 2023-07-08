@@ -1,0 +1,81 @@
+	
+		.formdiv {
+  			background-color: rgb(247, 247, 244);
+  			width: 75%;
+  			margin: auto;
+  			margin-top: 40px;
+  			text-align: left;
+  			padding-bottom: 70px;
+
+		}
+		form{
+			margin-left: 30px;
+		}
+
+		form label {
+  			display: inline-block;
+  			text-align: right;
+  			padding-left: 20px;
+  			width: 200px;
+  			height: 50px;
+  			font-weight: bold;
+				font-size: 20px;
+				color: #16a085;
+		}
+
+		form input {
+  			margin-left: 25px;
+		}
+
+		form select {
+  			margin-left: 25px;
+  			padding-top: 5px;
+  			padding-bottom: 5px;
+  			padding-right: 14px;
+  			text-align: left;
+		}
+
+		form input {
+  			padding: 7px 20px;
+  			border: 3px solid #16a085;
+  			border-radius: 6px;
+  			width: auto;
+		}
+		#myFile{
+			border: none;
+
+		}
+
+		#btn1{
+  			margin-left: 475px;
+  			padding: 6px 6px;
+  			background-color: #16a085;
+		}
+		#btn2{
+  			margin-left: 50px;
+  			padding: 6px 6px;
+  			background-color: #16a085;
+		}
+		body{
+			background-image: url(vit-1.jpg);
+			height: 100%;
+			width: 100%;
+			margin-top: 35px;
+ 			background-position: center;
+  		background-repeat: no-repeat;
+  		background-size: cover;
+  		overflow: hidden;
+  		opacity: 0.8;
+		}
+		.bg{
+			margin-left: 35px;
+			width: 95%;
+			height: 100%;
+			background-color:rgb(247, 247, 244) ;
+		}
+.inputf{
+	border: 2px solid #16a085;
+}
+.inputl{
+	font-size: 30px; color:#16a085;
+}
